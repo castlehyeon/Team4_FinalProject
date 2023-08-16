@@ -3,8 +3,7 @@ package com.kosa.personalAdministrationManagement.global;
 public class TestGlobal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("민아씨 클론 완료");
 	}
 
 }
