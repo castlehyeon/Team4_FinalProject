@@ -1,6 +1,13 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,eclipse
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,eclipse
 
+# 키값 관리
+*.properties
+src/main/resources/config.properties
+# config 관리
+src/main/java/com/kosa/personalAdministrationManagement/global/config/
+
+
 ### Eclipse ###
 .metadata
 bin/
