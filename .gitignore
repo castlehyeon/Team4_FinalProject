@@ -155,24 +155,26 @@ buildNumber.properties
 .classpath
 
 
+
+
+### react ###
 # Created by https://www.toptal.com/developers/gitignore/api/react
 # Edit at https://www.toptal.com/developers/gitignore?templates=react
 
-### react ###
-.DS_*
-*.log
-logs
-**/*.backup.*
-**/*.back.*
+front-end-team4_finalproject/.DS_*
+front-end-team4_finalproject/*.log
+front-end-team4_finalproject/logs
+front-end-team4_finalproject/*.backup.*
+front-end-team4_finalproject/*.back.*
 
-**/node_modules
-**/bower_components
+front-end-team4_finalproject/node_modules
+front-end-team4_finalproject/bower_components
 
-*.sublime*
+front-end-team4_finalproject/*.sublime*
 
-psd
-thumb
-sketch
+front-end-team4_finalproject/psd
+front-end-team4_finalproject/thumb
+front-end-team4_finalproject/sketch
 
 # End of https://www.toptal.com/developers/gitignore/api/react
 # End of https://www.toptal.com/developers/gitignore/api/maven
